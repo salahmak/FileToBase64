@@ -3,7 +3,7 @@ Basic Windows Application to Convert a File to Base64 string using C#.
 
 Drag and Drop the File you want to convert and either Paste the Base64 string to your clipboard OR save it to a text.
 
-Download: [Releases](https://github.com/MadLadDZ/FileToBase64/files/3331973/V1.zip "Release")
+Releases: [V1](https://github.com/MadLadDZ/FileToBase64/files/3331973/V1.zip "Releases")
 
 
 
