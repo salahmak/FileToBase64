@@ -1,0 +1,10 @@
+C:\Users\mpi 0519\source\repos\File To Base64\File To Base64\bin\Debug\File To Base64.exe.config
+C:\Users\mpi 0519\source\repos\File To Base64\File To Base64\bin\Debug\File To Base64.exe
+C:\Users\mpi 0519\source\repos\File To Base64\File To Base64\bin\Debug\File To Base64.pdb
+C:\Users\mpi 0519\source\repos\File To Base64\File To Base64\obj\Debug\File To Base64.csprojAssemblyReference.cache
+C:\Users\mpi 0519\source\repos\File To Base64\File To Base64\obj\Debug\File_To_Base64.Form1.resources
+C:\Users\mpi 0519\source\repos\File To Base64\File To Base64\obj\Debug\File_To_Base64.Properties.Resources.resources
+C:\Users\mpi 0519\source\repos\File To Base64\File To Base64\obj\Debug\File To Base64.csproj.GenerateResource.cache
+C:\Users\mpi 0519\source\repos\File To Base64\File To Base64\obj\Debug\File To Base64.csproj.CoreCompileInputs.cache
+C:\Users\mpi 0519\source\repos\File To Base64\File To Base64\obj\Debug\File To Base64.exe
+C:\Users\mpi 0519\source\repos\File To Base64\File To Base64\obj\Debug\File To Base64.pdb
