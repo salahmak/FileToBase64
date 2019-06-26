@@ -7,3 +7,6 @@ To Use: open 'File To Base64.sln' and compile.
 
 I don't see why anyone would use this application as there are so many and better apps out there. 
 I'm uploading this to github to archive my progess of learning C#
+
+Screenshot:
+![Alt text](/justascreenshot.jpg?raw=true "Screenshot")
