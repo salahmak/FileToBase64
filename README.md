@@ -9,4 +9,4 @@ I don't see why anyone would use this application as there are so many and bette
 I'm uploading this to github to archive my progess of learning C#
 
 Screenshot:
-![Alt text](/justascreenshot.jpg?raw=true "Screenshot")
+![Alt text](/justascreenshot.png?raw=true "Screenshot")
