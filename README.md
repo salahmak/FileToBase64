@@ -13,4 +13,4 @@ I'm uploading this to github to archive my progess of learning C#
 Screenshot:
 
 
-![Screenshot](/justascreenshot.png?raw=true "Screenshot")
+![Screenshot](/justascreenshot2.png?raw=true "Screenshot")
