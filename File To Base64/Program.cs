@@ -17,6 +17,7 @@ namespace File_To_Base64
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
+            MessageBox.Show("fuck you\nwhy do u exit best app made by tayeb");
         }
     }
 }
