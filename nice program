@@ -1,4 +1,0 @@
-function talkhere() {
-var say = 'say what do u want like these';
-return say;
-}
